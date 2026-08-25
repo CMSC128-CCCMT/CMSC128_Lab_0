@@ -14,6 +14,6 @@
 ## Drew T. Cudiamat
 - Drew or Drew Tupas
 - Skills: Basic coding learned so far in undergrad. Can also write creatively
-- Tools: VS Code, Linux, dreams
+- Tools: VS Code, Linux, and dreams
 - Field of Focus in Computer Science: Data science and bioinformatics, software engineering
 - FUn Fact or Goal: I want to work in a national lab in the Philippines and then eventually abroad.
