@@ -17,3 +17,11 @@
 - Tools: VS Code, Linux, and dreams
 - Field of Focus in Computer Science: Data science and bioinformatics, software engineering
 - FUn Fact or Goal: I want to work in a national lab in the Philippines and then eventually abroad.
+
+## Jared Ramyll D. Chua
+
+- Preferred Name: Jared
+- Skills: Java, Python, can also gamedev
+- Tools: VS Code, GitHub Desktop
+- Field of Focus in Computer Science: software engineering
+- Goal for This Semester: learn more about application development, especially in a team environment
