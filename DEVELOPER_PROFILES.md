@@ -23,6 +23,12 @@
 - Field of Focus in Computer Science: software engineering
 - Goal for This Semester: learn more about application development, especially in a team environment
 
+## Seth Leander L. Caballero
+- Preferred Name:   Seth
+- Skills:           Python, C, Java, learning Rust and Godot
+- Tools:            VSCode, Git, GitHub
+- Field of Focus in Computer Science: OOP and DSA
+- Goal for this Semester: Finish a personal logger project and learn more on HCI   
 ## Brent Michael A. Mendoza
 - Preferred Name: Brent 
 - Skills: Python, Java, beginner C++, Web Dev (frontend usually), and Scratch :) 
