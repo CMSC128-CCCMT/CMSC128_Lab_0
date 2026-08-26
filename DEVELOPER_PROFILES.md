@@ -22,3 +22,10 @@
 - Tools: VS Code, GitHub Desktop
 - Field of Focus in Computer Science: software engineering
 - Goal for This Semester: learn more about application development, especially in a team environment
+
+## Brent Michael A. Mendoza
+- Preferred Name: Brent 
+- Skills: Python, Java, beginner C++, Web Dev (frontend usually), and Scratch :) 
+- Tools: VS Code, GitHub, Notepad, and some delusions :)
+- Field of Focus in Computer Science: Game Dev
+- Goal for This Semester: I want to improve on my mental to improve my skills in whatever this semeseter will throw at me. 
