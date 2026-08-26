@@ -1,20 +1,31 @@
 # Developer Profiles
 
-### Sample format
+## Jhon Chriztopher Nice
 
-## Dipper Pines
+- Preferred Name: Tofeee
+- Skills: Basic HTML, basic JavaScript, basic CSS, debugging,SQL, Database Design, Data Modeling
+- Tools:  MySQL, PostgreSQL, VS Code, GitHub Desktop, Chrome DevTools
+- Field of Focus in Computer Science: Database Management
+- Goal for this Semester: `Not to rely much on AI`
 
-- Preferred Name: Dipper Pines
-- Skills: Basic HTML, basic JavaScript, debugging
-- Tools: VS Code, GitHub Desktop, Chrome DevTools
-- Field of Focus in Computer Science: Web Development
-- Fun Fact or Goal: I want to improve in frontend development.
+## Drew T. Cudiamat
+- Drew or Drew Tupas
+- Skills: Basic coding learned so far in undergrad. Can also write creatively
+- Tools: VS Code, Linux, and dreams
+- Field of Focus in Computer Science: Data science and bioinformatics, software engineering
+- FUn Fact or Goal: I want to work in a national lab in the Philippines and then eventually abroad.
 
+## Jared Ramyll D. Chua
 
-## Seth Leander Caballero
+- Preferred Name: Jared
+- Skills: Java, Python, can also gamedev
+- Tools: VS Code, GitHub Desktop
+- Field of Focus in Computer Science: software engineering
+- Goal for This Semester: learn more about application development, especially in a team environment
 
+## Seth Leander L. Caballero
 - Preferred Name:   Seth
-- Skills:           Basic HTML, Basic Java, Basic C, Basic Python, currently learning Rust, and Godot and GDScript
-- Tools:            VS Code, Git, GitHub, miscellanous IDEs
-- Field of Focus in Computer Science:   OOP and then proceed to Game Development or Cybersecurity
-- Fun Fact or Goal: My current goal is to make a Tagalog-Text -> Baybayin Script parser using Trie Trees data structure
+- Skills:           Python, C, Java, learning Rust and Godot
+- Tools:            VSCode, Git, GitHub
+- Field of Focus in Computer Science: OOP and DSA
+- Goal for this Semester: Finish a personal logger project and learn more on HCI   
